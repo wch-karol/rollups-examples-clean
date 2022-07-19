@@ -1,0 +1,6 @@
+[submodule "echo-ts/server/src/quickjs"]
+	path = echo-ts/server/src/quickjs
+	url = git@github.com:mgred/quickjs-types.git
+[submodule "echo-ts/server/src/types/quickjs"]
+	path = echo-ts/server/src/types/quickjs
+	url = git@github.com:mgred/quickjs-types.git
